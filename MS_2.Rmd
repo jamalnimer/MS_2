@@ -1,0 +1,32 @@
+---
+title: "MS_2"
+output: html_document
+Author: Jamal Nimer
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Feven Yohannes: Ethiopia Economic Development.
+This project does a strong job of compiling a lot of data across a number of pages
+that show meaningful information about Ethiopia's economy over time. I like how they
+also integrate social indicators into their project and don't rely exclusively on 
+economic data. I think this project could have done a better job including more 
+interesting data analytics. This feels very much like just a compilation of outside 
+data without much original input. This is especially pertinent to my project because
+I am planning on doing something similar so I want to have a more unique interpretation
+of the data.
+
+# Kevin Wang: United Nations General Assembly Voting Patterns
+This project does a much better job than the Ethiopia Economic Development project
+because of its more unique inferences from the data. This is a very large dataset
+but Kevin did a good job choosing what data to filter for and how to analyze it 
+meaningfully. For example, he filtered on the question of Palestine and was able 
+to come out with some very interesting inferences. This is likely the result of either
+a) previous information that Kevin already knew, or b) extensive exploration of the 
+dataset that Kevin then researched. I think this project could have used more historical
+and/or political context. They make a lot of observations about US voting trends 
+and reference particular years but don't spend enough time exploring the reasons in
+my opinion or at least hypothesizing some of the motivations. 
+
